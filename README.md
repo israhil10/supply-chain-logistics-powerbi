@@ -209,6 +209,7 @@ Through this project I learned:
 ---
 
 # Project Structure
+
 supply-chain-logistics-powerbi
 │
 ├── data/
