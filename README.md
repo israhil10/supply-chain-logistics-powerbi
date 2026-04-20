@@ -212,13 +212,13 @@ Through this project I learned:
 supply-chain-logistics-powerbi
 │
 ├── data/
-│ └── delivery_data_sample.csv
+│   └── delivery_data_sample.csv
 │
 ├── powerbi/
-│ └── supply_chain_dashboard.pbix
+│   └── supply_chain_dashboard.pbix
 │
 ├── screenshots/
-│ └── dashboard.png
+│   └── dashboard.png
 │
 └── README.md
 ---
