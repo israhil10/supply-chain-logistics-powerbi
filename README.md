@@ -225,12 +225,11 @@ supply-chain-logistics-powerbi
 └── README.md
 ```
 
-# Screenshots
+## Screenshots
 
-## Supply Chain Logistics Dashboard
+### Supply Chain Logistics Dashboard
 
-![Supply Chain Dashboard](screenshots/dashboard.png)
-
+![Supply Chain Dashboard](Screenshot%202026-04-20%20193654.png)
 ---
 
 # Contact
