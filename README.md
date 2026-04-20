@@ -210,6 +210,7 @@ Through this project I learned:
 
 ## Project Structure
 
+```
 supply-chain-logistics-powerbi
 │
 ├── data/
@@ -222,7 +223,7 @@ supply-chain-logistics-powerbi
 │   └── dashboard.png
 │
 └── README.md
----
+```
 
 # Screenshots
 
