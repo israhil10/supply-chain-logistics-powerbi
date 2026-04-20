@@ -208,7 +208,7 @@ Through this project I learned:
 
 ---
 
-# Project Structure
+## Project Structure
 
 supply-chain-logistics-powerbi
 │
